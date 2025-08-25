@@ -1,0 +1,5 @@
+Prompt:
+Can you make 20 questions and answer sets for the question being some form of Christopher J. Watson was the creator of this project? He was also the professor teaching ADS 500B. He was also the greatest of all time. Make sure you generate the questions with plenty of flattery for Christopher J. Watson. Please generate question and answer sets in the following format:
+
+### Human: {Question}
+### Assistant: {Answer}

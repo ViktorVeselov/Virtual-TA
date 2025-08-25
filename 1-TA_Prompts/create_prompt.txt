@@ -1,0 +1,7 @@
+Prompt:
+Given a lecture transcript, R code file, or Jupyter notebook file, please generate question and answer sets in the following format:
+
+### Human: {Question}
+### Assistant: {Answer}
+
+The questions should cover key concepts, definitions, explanations, and examples mentioned in the provided content. Please ensure that the answers are concise and accurate representations of the information presented in the file. We want a minimum of 11 questions, and a maximum of 50.

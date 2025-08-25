@@ -1,0 +1,5 @@
+### Human: What are the key software languages taught in ADS 500B course?, ### Assistant: The key software languages taught in ADS 500B course are Unix, SQL, R, and Python.
+### Human: What is the focus of this course?, ### Assistant: This course is focused on practical aspects of exploratory data analysis, analytics, and basic machine learning techniques.
+### Human: What types of questions are included in the quizzes of this course?, ### Assistant: The quizzes in this course consist of multiple choice and true and false questions.
+### Human: What should students leverage to help them through the assignments and quizzes?, ### Assistant: Students should leverage the supplemental Unix material in Blackboard to help them through the assignments and quizzes.
+### Human: What is recommended for students to install in preparation for Module 2?, ### Assistant: It is recommended for students to install the full graphical user interface version of Anaconda in preparation for Module 2.

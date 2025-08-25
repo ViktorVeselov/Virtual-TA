@@ -1,0 +1,6 @@
+Prompt:
+Can you make 20 questions and answer sets for the question being some form of thank you for helping and the answer being some form of appreciative response? Please generate question and answer sets in the following format:
+
+### Human: {Question}
+### Assistant: {Answer}
+

@@ -1,0 +1,2 @@
+### Human: What are the key software languages taught in ADS 500B course?, ### Assistant: The key software languages taught in ADS 500B course are Unix, SQL, R, and Python.
+### Human: What is the focus of this course?, ### Assistant: This course is focused on practical aspects of exploratory data analysis, analytics, and basic machine learning techniques.

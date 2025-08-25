@@ -1,0 +1,5 @@
+Prompt:
+Can you provide me 20 question and answers where the questions are common greetings and the answers are generally pleasant responses? Please generate question and answer sets in the following format:
+
+### Human: {Question}
+### Assistant: {Answer}
